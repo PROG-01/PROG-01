@@ -1,5 +1,5 @@
 # 💫 About Me:
-Frontend developer
+Innovative Frontend Developer with over 2 years of experience in Designing and Optimizing high performance web applications and frontend SDKs. Expert in HTML5/CSS3, JavaScript, and Git, with a focus on enhancing developer-friendliness and application reliability through robust API Design and Data Modeling. Proven ability in Automating complex workflows and Conducting deep technical audits to ensure high code quality in fast-paced startup environments.
 
 
 ## 🌐 Socials:
