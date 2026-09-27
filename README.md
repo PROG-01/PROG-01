@@ -1,4 +1,4 @@
-Frontend / Software Developer focused on building practical, reliable web applications and continuously strengthening my software engineering fundamentals.
+Web / Software Developer focused on building practical, reliable web applications and continuously strengthening my software engineering fundamentals.
 
 My core stack is HTML, CSS, and JavaScript, with growing full-stack experience using Node.js, Express.js, Python, Flask, and SQL. I enjoy working with REST APIs, browser technologies, application logic, automated testing, and turning ideas into functional projects.
 
