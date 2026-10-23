@@ -6,7 +6,7 @@ My core stack is HTML, CSS, and JavaScript, with full-stack experience using Nod
 
 ## Projects
 
-- **[WorkNest](https://github.com/PROG-01/worknest)** — A full-stack CRM built with Python, Flask, SQLite, and JavaScript. Covers client management, project tracking, a drag-and-drop Kanban board powered by the Fetch API, invoice tracking, and a business dashboard. Built as my CS50x final project.
+- **[WorkNest]** — A full-stack CRM built with Python, Flask, SQLite, and JavaScript. Covers client management, project tracking, a drag-and-drop Kanban board powered by the Fetch API, invoice tracking, and a business dashboard. Built as my CS50x final project.
 - **[Cabana Resort Booking System](https://github.com/PROG-01/cabana-resort)** — A Node.js/Express REST API for hotel cabana reservations with server-side guest validation, double-booking prevention, and full test coverage using Jest, Supertest, and Playwright.
 - **[SEO Inspector](https://github.com/PROG-01/seo-inspector)** — A Chrome extension that analyses on-page SEO in real time and scores each page out of 100 across metadata, headings, images, links, and content.
 
